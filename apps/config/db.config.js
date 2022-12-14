@@ -1,7 +1,7 @@
 module.exports = {
     HOST: "localhost",
-    USER: "root" || "ptmultiv_roun382",
-    PASSWORD: '',
+    USER: "root" || "ptmultiv_verse",
+    PASSWORD: 'ptmultiverse2022',
     DB: 'multiverse' || 'ptmultiv_node',
     dialect: "mysql",
     pool: {
